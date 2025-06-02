@@ -1,6 +1,6 @@
 # Live Earth Wallpaper
 
-Updates your wallpaper with the most recent [Earth pictures from space](https://www.star.nesdis.noaa.gov/GOES/index.php) from the NOAA. Picture changes about every 5 minutes.
+Updates your wallpaper with the most recent [Earth pictures from space](https://www.star.nesdis.noaa.gov/GOES/index.php) from the NOAA. Picture changes about every 10 minutes.
 
 ## Software Requirements
 
