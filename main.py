@@ -1,4 +1,5 @@
-# IMAGE SOURCE: https://www.star.nesdis.noaa.gov/GOES/index.php
+# GitHub: https://github.com/the-can-of-soup/live_earth_wallpaper
+# Source for images: https://www.star.nesdis.noaa.gov/GOES/index.php
 
 import platform
 if platform.system() != 'Windows':
